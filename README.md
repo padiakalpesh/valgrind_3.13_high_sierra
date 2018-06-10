@@ -1,4 +1,4 @@
-#README
+# README
 
 This repository exists to help other developers who, like me, needed
 valgrind to run on macOS High Sierra but did not wish to install
@@ -10,8 +10,7 @@ code for [Valgrind](http://valgrind.org) developed by its awsome team
 of [developers](http://valgrind.org/info/developers.html).
 
 The code in this repository differs from the original code for 
-valgrind version 3.13.0 (
-[release](ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2),
+valgrind version 3.13.0 ([release](http://valgrind.org/downloads/current.html),
 [repository](http://valgrind.org/downloads/repository.html)) in that 
 it updates the configuration scripts to include rules for detecting 
 and compiling for Apple LLVM Compiler version 9.x and macOS Version
